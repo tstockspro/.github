@@ -22,10 +22,10 @@ All assets are issued by [Backed.fi](https://backed.fi) and accessible via TON s
 |-----------|--------------------------------------------------|------------------------------------------------------------------|
 | Tesla     | `XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB`     | [Tesla xStock](https://assets.backed.fi/products/tesla-xstock)  |
 | NVIDIA    | `Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh`     | [NVIDIA xStock](https://assets.backed.fi/products/novo-nordisk-xstock) |
-| Alphabet  | `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`     | [Alphabet xStock](https://assets.backed.fi/products/accenture-xstock) |
 | Meta      | `Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu`     | [Meta xStock](https://assets.backed.fi/products/meta-xstock)    |
 | Apple     | `XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp`     | [Apple xStock](https://assets.backed.fi/products/apple-xstock)  |
 | Amazon    | `Xs3eBt7uRfJX8QUs4suhyU8p2M6DoUDrJyWBa8LLZsg`     | [Amazon xStock](https://assets.backed.fi/products/amazon-xstock) |
+| Google    | `XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN`     | [Google xStock](https://assets.backed.fi/products/alphabet-xstock) |
 
 ---
 
